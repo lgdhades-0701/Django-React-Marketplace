@@ -73,14 +73,6 @@ $ python manage.py runserver
 -   [Cloudinary](https://cloudinary.com/)
 -   [Djoser](https://djoser.readthedocs.io/)
 
-## Author
-
-👤 **Hanzla Tauqeer**
-
--   Website: https://hanzla.netlify.app
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
